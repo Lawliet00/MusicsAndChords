@@ -1,7 +1,7 @@
 instrucciones:
 nombredecancion (compas de la canción)
 valores: | chord | el acorde dura el compas completo
-         |chord - chord| medios compar cada acorde
+         |chord - chord| medio compas cada acorde
          | chord1(chord2) | el acorde 1 puede sustituirse por el acorde 2
 
 
