@@ -1,25 +1,29 @@
 instrucciones:
-nombredecancion (compas de la canción)
+nombredecancion (compas de la canción)(tono)
 valores: | chord | el acorde dura el compas completo
          |chord - chord| medio compas cada acorde
          | chord1(chord2) | el acorde 1 puede sustituirse por el acorde 2
 
 
 
-Incomprensible amor (4/4)
-| Gm | D | Bm | F |
+Incomprensible amor (4/4)(B)
+estrofa y coro
+	| G#m | D | Bm | F# |
+puente
+	| E | B | F# - D#m | G#m |
+	ultima vuelta:| E | B | F# - D#m | E - F# |
 
-Cordero y leon (4/4)
+Cordero y leon (4/4)(F)
 estrofa
 	| Dm7 | C | Bb | Am-Dm |
 coro
 	| F | C | Gm | Dm |
 	| F | C | Bb-Am | Dm |
 
-La tierra canta (4/4)
+La tierra canta (4/4)(D)
 | Bm | G | D | A |
 
-Quiero levantar a ti mis manos (4/4)
+Quiero levantar a ti mis manos (4/4)(C)
 estrofa
 	| Am | F | C | G |
 pre-coro
