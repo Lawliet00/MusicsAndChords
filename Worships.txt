@@ -11,7 +11,7 @@ estrofa y coro
 	| G#m | D | Bm | F# |
 puente
 	| E | B | F# - D#m | G#m |
-	ultima vuelta:| E | B | F# - D#m | E - F# |
+	ultima vuelta:| E | B | F# - D#m | E | F#(3/4) silencio(1/4) |
 
 Cordero y leon (4/4)(F)
 estrofa
@@ -23,12 +23,12 @@ coro
 La tierra canta (4/4)(D)
 | Bm | G | D | A |
 
-Quiero levantar a ti mis manos (4/4)(C)
+Quiero levantar a ti mis manos (4/4)(F)
 estrofa
-	| Am | F | C | G |
+	| Dm | Bb | F | C |
 pre-coro
-	| Am-G | F |
-	| Am-G | F |
-	| C | G |
+	| Dm-C | Bb |
+        | Dm-C | Bb |
+	| F | C |
 coro
-	| Am | F | C | G |
+	| Dm | Bb | F | C |
