@@ -13,6 +13,7 @@ puente
 	| E | B | F# - D#m | G#m |
 	ultima vuelta:| E | B | F# - D#m | E | F#(3/4) silencio(1/4) |
 
+///////////////////////////////////////////
 Cordero y leon (4/4)(F)
 estrofa
 	| Dm7 | C | Bb | Am-Dm |
@@ -20,9 +21,11 @@ coro
 	| F | C | Gm | Dm |
 	| F | C | Bb-Am | Dm |
 
+////////////////////////////////////////////
 La tierra canta (4/4)(D)
 | Bm | G | D | A |
 
+////////////////////////////////////////////
 Quiero levantar a ti mis manos (4/4)(F)
 estrofa
 	| Dm | Bb | F | C |
@@ -32,3 +35,68 @@ pre-coro
 	| F | C |
 coro
 	| Dm | Bb | F | C |
+
+////////////////////////////////////////////
+Musica en el Desierto - Un Corazón
+intro
+	|Bm(3) D(1) | G |x2
+
+estrofa 1 (en el vaio)
+	|Bm(3) D(1) | G |x4
+
+estrofa 2 (en el desierto)
+	|Bm(3) D(1) | G |x4 
+
+post-estrofa
+
+	|A(3) Bm(1) | G |x4
+	| G(3) [Mezzoforte a Forte] Silencio(1) |
+
+coro(tu estan haciendo todo nuevo)
+	|Bm(2) - G(2)| D(2) - A(2)|x4
+
+post-coro( Oh oh oh)
+	| G | Bm | A | G |x2
+
+puente (Ven, dador de vida ven)
+	| G | A | Bm | A |x2
+	| G(2) - A(2)| Bm(2) - A(2)|
+
+////////////////////////////////////////////
+intro
+	| E - G#m| Bm |x4
+	| E | F# |x2
+	|silencio|
+
+estrofa
+	| B | B | G#m | G#m | F# | F# |
+	| E(2) - F#(2) |x2
+	| G#m | G#m | B | B | E | E | F# | F# |
+
+coro
+	| B | B | G#m | G#m | E | F# | E | F# |
+
+puente
+	| C#m | D#m | E | F# |
+
+intro-vuelta
+	| E - G#m| Bm |x2
+	| E(2) - F#(2) |x2
+
+////////////////////////////////////////////
+Intro
+	| Bm | A | Bm |G(2)-A(2)|x4
+
+estrofa(Con mi Dios yo asaltaré los muros)
+	| Bm | A | Bm |G(2)-A(2)|x2
+
+coro(El adiestra mis manos)
+	| D | A | Bm | Bm | A | A | Bm | Bm |
+
+puente (El es escudo)
+	| A | D | A | D | F#7 | Bm | Em | F#7 | F#7(2)[marca] - (Silencio)(2) | Bm | Bm |
+	[los ultimo 2 compases pueden cambiarse por al repetir | Bm(3)-A(1) | Bm | ]
+
+final(El es mi libertador)
+	| Em | F#7 | F#7(2)[marca] - (Silencio)(2) | Bm(3)-A(1) | Bm |x3
+	| Bm(3)-A(1) | Bm |
