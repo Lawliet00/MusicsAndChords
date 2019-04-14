@@ -37,7 +37,7 @@ coro
 	| Dm | Bb | F | C |
 
 ////////////////////////////////////////////
-Musica en el Desierto - Un Corazón
+Musica en el Desierto - Un Corazón (D)
 intro
 	|Bm(3) D(1) | G |x2
 
@@ -63,8 +63,9 @@ puente (Ven, dador de vida ven)
 	| G(2) - A(2)| Bm(2) - A(2)|
 
 ////////////////////////////////////////////
+Al que esta sentado en el trono - Marcos Brunnet (B)
 intro
-	| E - G#m| Bm |x4
+	| E - G#m| B |x4
 	| E | F# |x2
 	|silencio|
 
@@ -80,10 +81,11 @@ puente
 	| C#m | D#m | E | F# |
 
 intro-vuelta
-	| E - G#m| Bm |x2
+	| E - G#m| B |x2
 	| E(2) - F#(2) |x2
 
 ////////////////////////////////////////////
+Con mi Dios - Jesus Adrian Romero (D)
 Intro
 	| Bm | A | Bm |G(2)-A(2)|x4
 
