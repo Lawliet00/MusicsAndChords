@@ -102,3 +102,23 @@ puente (El es escudo)
 final(El es mi libertador)
 	| Em | F#7 | F#7(2)[marca] - (Silencio)(2) | Bm(3)-A(1) | Bm |x3
 	| Bm(3)-A(1) | Bm |
+
+//////////////////////////////////////////////
+Eres Fiel - Coalo zamorano (D)
+el tempo de la canción es de 128ppm
+
+intro
+	| D | A | C | G |x2
+estrofa 
+	| D | A | C | G |x2
+pre-coro
+	| G | A | A# | C |x1
+coro
+	| D | A | C | G |x2
+puente
+	| DDFFG | ~ | DDCCB | ~ |
+
+coro final
+	| D | A |
+	| D | Em | D | Em |
+	| D | Em | ~ | ~ | D |
