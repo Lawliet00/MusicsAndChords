@@ -2,36 +2,35 @@ instrucciones:
 nombredecancion (compas de la canción)(tono)
 valores: | chord | el acorde dura el compas completo
          |chord - chord| medio compas cada acorde
-         | chord1(chord2) | el acorde 1 puede sustituirse por el acorde 2
-
+	 |chord(2)| el numero entre parentecis es la duracion del acorde en el tiempo
 
 
 Incomprensible amor (4/4)(B)
 estrofa y coro
 	| G#m | D | Bm | F# |
 puente
-	| E | B | F# - D#m | G#m |
-	ultima vuelta:| E | B | F# - D#m | E | F#(3/4) silencio(1/4) |
+	| E | B | F#(2) - D#m(2) | G#m |
+	ultima vuelta:| E | B | F#(2) - D#m(2) | E | F#(3/4) silencio(1/4) |
 
 ///////////////////////////////////////////
 Cordero y leon (4/4)(F)
 estrofa
-	| Dm7 | C | Bb | Am-Dm |
+	| Dm7 | C | Bb | Am(2) - Dm(2) |
 coro
 	| F | C | Gm | Dm |
-	| F | C | Bb-Am | Dm |
+	| F | C | Bb(2) - Am(2) | Dm |
 
 ////////////////////////////////////////////
 La tierra canta (4/4)(D)
 | Bm | G | D | A |
 
 ////////////////////////////////////////////
-Quiero levantar a ti mis manos (4/4)(F)
+Creo en ti (4/4)(F)
 estrofa
 	| Dm | Bb | F | C |
 pre-coro
-	| Dm-C | Bb |
-        | Dm-C | Bb |
+	| Dm(2)-C(2) | Bb |
+        | Dm(2)-C(2) | Bb |
 	| F | C |
 coro
 	| Dm | Bb | F | C |
@@ -65,7 +64,7 @@ puente (Ven, dador de vida ven)
 ////////////////////////////////////////////
 Al que esta sentado en el trono - Marcos Brunnet (B)
 intro
-	| E - G#m| B |x4
+	| E(2) - G#m(2)| B |x4
 	| E | F# |x2
 	|silencio|
 
@@ -122,3 +121,25 @@ coro final
 	| D | A |
 	| D | Em | D | Em |
 	| D | Em | ~ | ~ | D |
+
+
+///////////////////////////////////////////////
+Deseable - marcos brunett(Bb)
+tempo ~62ppm
+Tono de Bb
+intro
+	| Gm(2) - Bb/D(2) | Eb(2) - F(2)|
+	| Gm(2) - Bb/D(2) | Eb |
+verso
+	| Gm(2) - Bb/D(2) | Eb |
+	| Gm(2) - Bb/D(2) | Cm7 |
+	| Bb/D(2) - Eb(2) | Bb/D(2) - Eb(2) |
+	| Cm7(2) - Cm/Bb(2) | F/A |x2
+Coro
+	| Bb | F/A | Cm7 - Bb/D|Eb - F|x2
+puente
+	| Gm(2) - Bb/D(2) | Eb(2) - F(2)|
+	| Gm(2) - Bb/D(2) | Eb |
+
+Aqui estas (way maker) (A)
+	| D | A | E | F#m |
