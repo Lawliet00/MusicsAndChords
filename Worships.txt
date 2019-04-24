@@ -13,6 +13,24 @@ puente
 	ultima vuelta:| E | B | F#(2) - D#m(2) | E | F#(3/4) silencio(1/4) |
 
 ///////////////////////////////////////////
+hambre por el Dios vivo - New Wine (4/4)(F)
+intro
+	| Dm(2) - C(2) | Am(2) - Bb(2)|
+	| Dm(2) - C(2) | Gm(2) - Am(2)|
+	| Dm(2) - C(2) | Am(2) - Bb(2)|
+	| Dm(2) - C(2) | Gm(2) - Am(2)|
+estrofa
+	| Dm(2) - C(2) | Bb(2) - A(2)|x3
+	| Gm(2) - Dm(2) | A |
+coro
+	| Dm(2) - C(2) | Am(2) - Bb(2)|
+	| Dm(2) - C(2) | Gm(2) - Am(2)|
+puente
+	| Dm(2) - C(2) | Am(2) - Bb(2)|
+	| Dm(2) - C(2) | Gm(2) - Am(2)|
+	
+	
+///////////////////////////////////////////
 Cordero y leon (4/4)(F)
 estrofa
 	| Dm7 | C | Bb | Am(2) - Dm(2) |
