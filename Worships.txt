@@ -103,6 +103,7 @@ intro-vuelta
 
 ////////////////////////////////////////////
 Con mi Dios - Jesus Adrian Romero (D)
+tempo 158ppm
 Intro
 	| Bm | A | Bm |G(2)-A(2)|x4
 
@@ -122,7 +123,7 @@ final(El es mi libertador)
 
 //////////////////////////////////////////////
 Eres Fiel - Coalo zamorano (D)
-el tempo de la canción es de 128ppm
+tempo 128ppm
 
 intro
 	| D | A | C | G |x2
