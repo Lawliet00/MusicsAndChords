@@ -159,6 +159,23 @@ Coro
 puente
 	| Gm(2) - Bb/D(2) | Eb(2) - F(2)|
 	| Gm(2) - Bb/D(2) | Eb |
-
+////////////////////////////////////////////////////
 Aqui estas (way maker) (A)
 	| D | A | E | F#m |
+
+/////////////////////////////////////////////////////
+"CUERDAS DE AMOR" (Julio Melgar) Cover by ANAGRACE
+tempo : 58bpm
+
+tono:G
+Intro:
+	| Em(2) - C(2) | G |x2 silencio(2)
+verso 1:
+	|Em(2) - C(2) | G |x4
+pre-coro:
+	| C | Am | C | G |x2
+coro: 
+	| G | Em | Bm | C | | G | Em | Bm | C |
+    	| Am | F | C | C |
+	
+puente: |Em(2) - C(2) | G |x5
