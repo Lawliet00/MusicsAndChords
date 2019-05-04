@@ -179,3 +179,37 @@ coro:
     	| Am | F | C | C |
 	
 puente: |Em(2) - C(2) | G |x5
+
+//////////////////////////////////////////////////
+tu bondad - new wine
+Tono: D
+compas: 6/8
+tempo: 156 ppb
+
+intro
+	| Em | Em | Em | Em |
+verso-1 x2 (me das todo lo que quiero y mas)
+	| Em | Em | Bb - A | Bb - F#m | Em | Em | Em | Em |
+verso-2 x2 (hubiera desmayado)
+	| G | D/F# | F#m | Bb - A |
+intrumental
+	| G | Bb | A | A - D/F# |
+	| G | Bb | A | A |
+verso 2' x4 (segunda vez)
+	| G | D | F#m | Bb - A |
+final de verso 2' antes de coro
+	| G | A - Silencio |
+coro x4 (bueno eres)
+	| G | D | F#m7 | Bb - A |
+instrumental 2 x2
+	| G | D | F#m7 | Bb - A |
+puente x4 (estare eternamente)
+	| G | D | F#m7 | Bb - A |
+instrumental 3 x4
+	| G | G | Bb | Bb |
+verso 1' x2
+	| G |  G6 | D - A/C# | Bb - A | G | F#m | Bb | Bb |
+
+
+
+
