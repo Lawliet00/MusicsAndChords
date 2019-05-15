@@ -186,29 +186,31 @@ Tono: D
 compas: 6/8
 tempo: 156 ppb
 
-intro
+intro  x2
 	| Em | Em | Em | Em |
 verso-1 x2 (me das todo lo que quiero y mas)
-	| Em | Em | Bb - A | Bb - F#m | Em | Em | Em | Em |
+	| Em | Em | Bm - A | Bm - F#m | Em | Em | Em | Em |
 verso-2 x2 (hubiera desmayado)
-	| G | D/F# | F#m | Bb - A |
+	| G | D/F# | F#m | Bm - A |
 intrumental
-	| G | Bb | A | A - D/F# |
-	| G | Bb | A | A |
+	| G | Bm | A | A - D/F# |
+	| G | Bm | A | A |
 verso 2' x4 (segunda vez)
-	| G | D | F#m | Bb - A |
+	| G | D | F#m | Bm - A |
 final de verso 2' antes de coro
 	| G | A - Silencio |
 coro x4 (bueno eres)
-	| G | D | F#m7 | Bb - A |
+	| G | D | F#m7 | Bm |
+	| G | D | F#m7 | Bm - A |
 instrumental 2 x2
-	| G | D | F#m7 | Bb - A |
+	| G | D | F#m7 | Bm | 
 puente x4 (estare eternamente)
-	| G | D | F#m7 | Bb - A |
+	| G | D | F#m7 | Bm |
+	| G | D | F#m7 | Bm - A |
 instrumental 3 x4
-	| G | G | Bb | Bb |
+	| G | G | Bm | Bm |
 verso 1' x2
-	| G |  G6 | D - A/C# | Bb - A | G | F#m | Bb | Bb |
+	| G |  G6 | D - A/C# | Bm - A | G | F#m | Bm | Bm |
 
 
 
