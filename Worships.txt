@@ -29,6 +29,16 @@ puente
 	| Dm(2) - C(2) | Am(2) - Bb(2)|
 	| Dm(2) - C(2) | Gm(2) - Am(2)|
 	
+///////////////////////////////////////////
+aqui como en el cielo - evan craft
+intro
+	| D | G | D | G |
+estrofa
+	| G | Bm(2) - A(2) |x4
+coro
+	| G | G(3) - A(1) | Bm | A |
+puente
+	| G | G(3) - A(1) | Bm | A |
 	
 ///////////////////////////////////////////
 Cordero y leon (4/4)(F)
