@@ -173,10 +173,10 @@ Intro:
 verso 1:
 	|Em(2) - C(2) | G |x4
 pre-coro:
-	| C | Am | C | G |x2
+	| D | Am | C | G |x2
 coro: 
 	| G | Em | Bm | C | | G | Em | Bm | C |
-    	| Am | F | C | C |
+    	| Am | C | D | D |
 	
 puente: |Em(2) - C(2) | G |x5
 
