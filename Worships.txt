@@ -223,5 +223,29 @@ verso 1' x2
 	| G |  G6 | D - A/C# | Bm - A | G | F#m | Bm | Bm |
 
 
+////////////////////////////////////////////////////////////
+
+estruendo - new wine
+intro 
+	| Em | C | Bm | Em |
+estrofa x2
+	| Em | D | C | Bm - B |
+intro
+estrofa x2
+pre-coro x2
+	| Em | D | Bm | C - D |
+coro x2
+	| Em - Cmaj7 | D - Bm7|
+	| Em - Cmaj7 | D - Bm7|
+instrumental tronpetas x2
+	| Em | D | C | Bm - B |
+	| Em | D | C | Bm - B |
+pre-coro x2
+coro x2
+coro x1 sin letra
+puente x2
+	| Em | D | C | D |
+coro x2 			/// el primer compas solo voces
+final en Em
 
 
