@@ -281,3 +281,23 @@ final
 	| Am(2) - F(2) | F |x3
 	
 	
+
+/////////////////////////////////////////////////////////////////////
+No hay lugar mas alto - Miel San Marcos ft Christine Dclario
+Tono: A
+intro
+	| A | D |
+estrofa
+	| A | E/G# | F#m7 | D |
+pre-coro
+	| D | E | F#m7 | E/G# |
+coro
+	| D | E | F#m | A |
+puente
+	| D | E | A(2) -E(2) | F#m |
+	| D | E | F#m | A |
+ministracion final
+	| D | E | F#m | A |
+	
+	
+	
