@@ -300,4 +300,44 @@ ministracion final
 	| D | E | F#m | A |
 	
 	
+//////////////////////////////////////////////////////////////////////
+Your Spirit - Tasha Coobs y adolecentes dristrito 5
+Your Spirit - tasha Coobs y adolecentes distrito 5
+compas : 6/8
+tempo 146 bpm
+intro
+	| F#m | D | E | C#m |x2
+
+coro (Nos es por mis)
+	| F#m | D | E | C#m |x2
+
+intrumental 1 (x2) : | F#m | A | E | Bm |
+
+verso 1 (Eres el fuego)
+	| F#m | A | E | Bm(5) - C#m(1) |x2
+
+pre-coro x1 (me rindo ante ti) 
+	| D | F#m | E | C#m |
+	| D | F#m | E | (un tiempo de silencia dejando sonar la nota anterior) |
+
+corox1
+intrumental 1 (x1)
+
+verso 2 (de la oscuridad tu me sacaste)
+	| F#m | A | E | Bm(5) - C#m(1) |x2
+
+pre-coro x1 (me rindo ante ti)
+	| D | F#m | E | C#m |
+	| D | F#m | E | C#m(3)- C#m(solo se asentua el primer tempo) |
+
+coro x2
+
+puente x4(veeeeeeeeeennnnnnnn ven y llenannos Espiritu)
+	| D | E | F#m | E |
+	| D | E | F#m(3) - C#m(3) | E |
+pre-coro x2
+coro x1/2
+
+
+	
 	
