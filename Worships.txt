@@ -339,5 +339,33 @@ pre-coro x2
 coro x1/2
 
 
-	
-	
+////////////////////////////////////////////////////////////////
+Grande y fuerte - miel san marcos
+Tono: Am
+
+intro xN
+	| Am | F#maj7 - E |
+
+estrofa x3
+	| Am | F#maj7 - E |x2
+
+ultima estrofa x1
+	| Am | F#maj7 - E |
+	| Asus4 | A/C# |
+
+coro
+	| Dm7 | G | Dm7 | A | F#maj7 | G | Am(1) - G/B(1) - A/C(2) | 
+	| Dm7 | G | Dm7 | A | F#maj7 | G | Am | 
+
+puente
+	| Am - G | Fmaj7 - Em7|
+	// ultimo puente solo se marca 
+
+final de puente
+	| Am(1) - G/B(1) - A/C(2) | 
+
+
+
+/////////////////////////////////////////////////////////////////////
+llename - Yamilka
+	| Gm | Eb | Bb | F |
