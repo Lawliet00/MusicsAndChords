@@ -369,3 +369,46 @@ final de puente
 /////////////////////////////////////////////////////////////////////
 llename - Yamilka
 	| Gm | Eb | Bb | F |
+
+
+////////////////////////////////////////////////////////////////////
+Hay libertad en la casa de Dios - Art Aguilera
+Tono: G
+compa 4/4
+
+refran 1 y refran 2
+	| Em | Em | C | C | G | G | D | D |
+
+intro
+	| Em | Em | C | C | G | G | D | D |
+verso 1 x2
+	| Em | Em | C | C | G | G | D | D |
+coro 1 x2
+	| Em | Em | C | C | G | G | D | D |
+verso 2
+	| Em | Em | C | C | G | G | D | D |
+verso (especial)
+	| Em | Em | C | C | G | G | D-Em-G-C -  |
+
+coro x2
+
+intrumental 
+	| Em7-F#m-G-C | G | D |
+
+puente x2
+	| Em7-F#m-G-C | G | D |
+
+coro 1 (acapela) x1
+	| Em | - | - | - | G | G | D | D |
+
+coro 1 (intenso) x1
+
+coro 2 x1 (intenso)
+	| Em | Em | C | C | G | G | D | D# |
+
+Salida x2 (somos libres)
+	| Fm | Fm | C# | C# | G# | G# | D# | D# |
+	
+final
+	| C# |
+
