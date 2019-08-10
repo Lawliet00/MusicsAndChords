@@ -411,4 +411,47 @@ Salida x2 (somos libres)
 	
 final
 	| Am |
+//////////////////////////////////////////////////////////
+Nada ni nadie - Living
+tono Ab
+
+intro
+	|  |
+
+verso 1
+	| Ab - Bbm | Fm | Db - Ab | Eb |
+	| Fm - Eb | Ab | Db - Eb | Ab |
+
+verso 2
+	| Ab - Bbm | Fm | Db - Ab | Eb |
+	| Fm - Eb | Ab | Db - Eb | Ab |
+
+coro
+	| Db | Fm | Ab | Eb |x2
+
+coro 2
+	| Db | Fm | Ab | Eb |x2
+
+transicion
+	| Db |
+
+verso 3
+	| Ab - Bbm | Fm | Db - Ab | Eb |
+	| Fm - Eb | Ab |
+	| Db - Eb | Ab |
+	| Db - Eb | Ab |
+
+pre-solo
+	| Bbm | Db | Ab | Eb |x2
+
+Solo
+	| Db | Eb | Fm | Cm |
+
+puente
+	| Db | Eb | Fm | Cm |
+	| Db | Eb | Fm | Ab |
+
+verso 3(final)
+	| Ab - Bbm | Fm | Db - Ab | Eb |
+	| Fm - Eb | Ab | Db - Eb | Ab |
 
