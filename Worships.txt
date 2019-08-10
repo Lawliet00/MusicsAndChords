@@ -373,42 +373,42 @@ llename - Yamilka
 
 ////////////////////////////////////////////////////////////////////
 Hay libertad en la casa de Dios - Art Aguilera
-Tono: G
+Tono: Am
 compa 4/4
 
 refran 1 y refran 2
-	| Em | Em | C | C | G | G | D | D |
+	| Am | Am | F | F | C | C | G | G |
 
 intro
-	| Em | Em | C | C | G | G | D | D |
+	| Am | Am | F | F | C | C | G | G |
 verso 1 x2
-	| Em | Em | C | C | G | G | D | D |
+	| Am | Am | F | F | C | C | G | G |
 coro 1 x2
-	| Em | Em | C | C | G | G | D | D |
+	| Am | Am | F | F | C | C | G | G |
 verso 2
-	| Em | Em | C | C | G | G | D | D |
+	| Am | Am | F | F | C | C | G | G |
 verso (especial)
-	| Em | Em | C | C | G | G | D-Em-G-C -  |
+	| Am | Am | F | F | C | C | G-Am-C-F -  |
 
 coro x2
 
 intrumental 
-	| Em7-F#m-G-C | G | D |
+	| Am7-Bm-C-F | C | G |
 
 puente x2
-	| Em7-F#m-G-C | G | D |
+	| Am7-Bm-C-F | C | G |
 
 coro 1 (acapela) x1
-	| Em | - | - | - | G | G | D | D |
+	| Am | - | - | - | C | C | G | G |
 
 coro 1 (intenso) x1
 
 coro 2 x1 (intenso)
-	| Em | Em | C | C | G | G | D | D# |
+	| Am | Am | F | C | C | C | G | G |
 
 Salida x2 (somos libres)
-	| Fm | Fm | C# | C# | G# | G# | D# | D# |
+	| Am | Am | F | F | C | C | G | G |
 	
 final
-	| C# |
+	| Am |
 
