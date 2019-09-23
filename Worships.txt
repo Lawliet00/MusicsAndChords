@@ -454,4 +454,20 @@ puente
 verso 3(final)
 	| Ab - Bbm | Fm | Db - Ab | Eb |
 	| Fm - Eb | Ab | Db - Eb | Ab |
+	
+	
+//////////////////////////////////////////////////////////////////
+Poderoso Dios - Marcos Witt
+Tono: C
 
+Intro-Estrofa-Coro
+|F(1) - G(1)|
+| C | C | Am | Am | F | Dm | G | G(2) - F(1) - G(1) |
+
+puente
+| Dm(2) - Em(2)| F | G(2) - Am(2) | G |
+| Dm(2) - Em(2)| F | G(2) - Am(2) | Bm(2) - G(1) - A(1) |
+
+sube un tono a D
+|G(1) - A(1)|
+| D | D | Bm | Bm | G | Em | A | A(2) - G(1) - A(1) |
