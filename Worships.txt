@@ -471,3 +471,43 @@ puente
 sube un tono a D
 |G(1) - A(1)|
 | D | D | Bm | Bm | G | Em | A | A(2) - G(1) - A(1) |
+
+
+
+//////////////////////////////////////////////////////////////////////
+Coronas el año - You Crown the Year - hillsong
+tempo: 142
+compas: 6/8
+
+Intro 
+/ A / Amaj7 / A / A2 /
+
+Verso 1
+/ A / D(2) / A / E(4)-D(2) / F#m(4)-E(2) /
+/ A / D(2) / A / E(4)-D(2) / A / A /
+
+Verso 2
+/ A / D(2) / A / E(4)-D(2) / F#m(4)-E(2) /
+/ A / D(2) / A / E(4)-D(2) / A / A /
+
+Coro: una sola vez
+/ D / D / A / E / D / F#m / E / D / D /
+
+Verso 3
+/ A / D(2) / A / E(4)-D(2) / F#m(4)-E(2) /
+/ A / D(2) / A / E(4)-D(2) / A / A /
+
+Coro: dos veces
+/ D / D / A / E / D / F#m / E / D /
+/ D / D / A / E / D / F#m / E /
+
+puente - instrumental dos veces
+/ D / F#m / A/E / E /
+
+puente - x4
+/ D / F#m / A/E / E /
+/ D / F#m / A/E / E /
+
+Coro: dos veces
+/ D / D / A / E / D / F#m / E / D /
+/ D / D / A / E / D / F#m / E /
