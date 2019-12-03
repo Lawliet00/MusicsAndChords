@@ -516,7 +516,7 @@ Coro: dos veces
 /////////////////////////////////////////////////
 Dia y Noche - New Wine
 Tempo: 77Bpm
-compas: 6/4
+compas: 12/8
 Tono: Em
 
 Verso
