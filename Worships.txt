@@ -511,3 +511,26 @@ puente - x4
 Coro: dos veces
 / D / D / A / E / D / F#m / E / D /
 / D / D / A / E / D / F#m / E /
+
+
+/////////////////////////////////////////////////
+Dia y Noche - New Wine
+Tempo: 77Bpm
+compas: 6/4
+Tono: Em
+
+Verso
+|Em|D/F# - G | C | Am7 |
+
+Pre-coro
+| Cmaj7 | D | Em | D/F# - G/B|
+| Cmaj7 | D | Em | D7/F# - G |
+
+Coro
+| C | D | Em | Em |
+
+Puente
+| C | D | Em | Em |
+
+Intrumental
+| Cmaj7 | D7 | Em | Em |
