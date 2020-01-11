@@ -534,3 +534,22 @@ Puente
 
 Intrumental
 | Cmaj7 | D7 | Em | Em |
+
+
+
+/////////////////////////////////////////////////////
+Eres Dios - Barak
+Tono B
+tempo 69
+intro
+| G#m | E | B | F# |
+
+verso
+| G#m | E | B | B |x2
+| C#m | E | B/D | B/D |x2
+
+Coro
+| B | B | G#m | G#m | F# | F# | E | E |
+
+puente
+| B | B | F# | F# | G#m | G#m | E | E |
